@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357328959350",
+    "firebase_url": "https://whosdatingapp.firebaseio.com",
+    "project_id": "whosdatingapp",
+    "storage_bucket": "whosdatingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357328959350:android:bb1ec95ccb3dd3f5cc2c57",
+        "android_client_info": {
+          "package_name": "com.example.android.whosdatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357328959350-gol3mte1m8u5d70bhcfi3lq1i0jja0fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.whosdatingapp",
+            "certificate_hash": "f6f3259496142967bb4b5f5f3933710890572888"
+          }
+        },
+        {
+          "client_id": "357328959350-ocn3ri8atrn8u3krpq1dqqquo5ia6940.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIchyyZ5A48_zkDpt8R5PsRnDyQS_gsy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357328959350-ocn3ri8atrn8u3krpq1dqqquo5ia6940.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
